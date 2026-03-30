@@ -1,7 +1,7 @@
 /*
 Create a list of friend groups
 
-While there's someone in the network:
+While there's someone in the network: 
   Get that person as p.
   Call resolve friend group of p.
   Add that group to the list of friend groups.
