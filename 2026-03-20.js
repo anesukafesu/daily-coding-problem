@@ -1,4 +1,4 @@
-// This is the initial naive implementation, which I will optimise later.
+// This is the initial naive implementation, which I will optimise later. 
 
 function maxSubArray(array, k) {
   let start = 0;
