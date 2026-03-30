@@ -1,4 +1,4 @@
-/** Swaps every two nodes of a linked list in place.
+/** Swaps every two nodes of a linked list in place. 
   @param head {Node} The head of the linked list.
   @returns {Node} The head of the swapped linked list.
 */
